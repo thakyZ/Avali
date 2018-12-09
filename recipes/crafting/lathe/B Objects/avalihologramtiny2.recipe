@@ -1,6 +1,6 @@
 {
   "input" : [
-    { "item" : "money", "count" : 15  }  
+    { "item" : "aerogel", "count" : 1 }
   ],
   "output" : { "item" : "avalihologramtiny2", "count" : 1 },
   "duration" : 0.1,

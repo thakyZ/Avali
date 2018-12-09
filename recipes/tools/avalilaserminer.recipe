@@ -1,6 +1,5 @@
 {
   "input" : [
-    { "item" : "money", "count" : 500 },
     { "item" : "avaligraphene", "count" : 20 }
 
   ],

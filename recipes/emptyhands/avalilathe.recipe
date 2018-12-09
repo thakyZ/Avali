@@ -1,6 +1,12 @@
 {
   "input" : [
-    { "item" : "money", "count" : 100 } 
+    { "item" : "avaligraphene", "count" : 3 },
+    { "item" : "aerogel", "count" : 1 },
+    { "item" : "ironblock", "count": 2 }
+    // Alternate Crafting
+    //{ "item" : "avalitechpanel", "count" : 3 },
+    //{ "item" : "aerogel", "count" : 1 },
+    //{ "item" : "avalidarkmetal2", "count": 2 }
   ],
   "output" : {
     "item" : "avalilathe",

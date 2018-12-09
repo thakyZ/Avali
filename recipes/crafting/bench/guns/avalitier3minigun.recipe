@@ -1,7 +1,6 @@
 {
   "input" : [
-    { "item" : "titaniumbar", "count" : 16 },
-  { "item" : "money", "count" : 150}
+    { "item" : "titaniumbar", "count" : 16 }
   ],
   "output" : { "item" : "avaliminigun", "data" : { "level" : 3, "shortdescription" : "MG3 Hailstorm" }, "count" : 1 },
   "groups" : [ "avalibench", "weapons", "all" ]

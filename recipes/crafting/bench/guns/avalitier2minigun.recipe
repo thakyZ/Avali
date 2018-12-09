@@ -1,7 +1,6 @@
 {
   "input" : [
-    { "item" : "tungstenbar", "count" : 16 },
-  { "item" : "money", "count" : 150}
+    { "item" : "tungstenbar", "count" : 16 }
   ],
   "output" : { "item" : "avaliminigun", "data" : { "level" : 2, "shortdescription" : "MG2 Hailstorm" }, "count" : 1 },
   "groups" : [ "avalibench", "weapons", "all" ]
