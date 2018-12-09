@@ -3,7 +3,19 @@
     "op": "add",
     "path": "/avaliStarterTreasure",
     "value": [[0, {
-      "fill" : [{ "pool": "starterTreasure" }]
+      "fill" : [{ "pool": "starterTreasure" }, { "pool": "starterTreasureAvali" }]
+    }]]
+  },
+  {
+    "op": "add",
+    "path": "/starterTreasureAvali",
+    "value": [[0, {
+      "fill" : [
+        {"item" : [ "avaliloom", 1 ]},
+        {"item" : [ "avalisewing", 1 ]},
+        {"item" : [ "avalilathe", 1 ]},
+        {"item" : [ "avalibench", 1 ]}
+      ]
     }]]
   }
 ]
