@@ -5,8 +5,7 @@
   { "item" : "aerogel", "count" : 25 },
   { "item" : "avaligraphene", "count" : 35 },
   { "item" : "refinedaegisalt", "count" : 10 },
-  { "item" : "solariumstar", "count" : 10 },
-  { "item" : "money", "count" : 3500}
+  { "item" : "solariumstar", "count" : 10 }
   ],
   "output" : { "item" : "avalibow", "data" : { "level" : 4, "shortdescription" : "CB4 Lancer", "rarity" : "Uncommon" }, "count" : 1 },
   "groups" : [ "avalibench", "weapons", "all" ]

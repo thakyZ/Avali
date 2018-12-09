@@ -1,7 +1,6 @@
 {
   "input" : [
-    { "item" : "ironbar", "count" : 15 },
-  { "item" : "money", "count" : 200 }
+    { "item" : "ironbar", "count" : 15 }
   ],
   "output" : { "item" : "avalishotgun", "data" : { "level" : 1, "shortdescription" : "QRC Type-1" }, "count" : 1 },
   "groups" : [ "avalibench", "weapons", "all" ]

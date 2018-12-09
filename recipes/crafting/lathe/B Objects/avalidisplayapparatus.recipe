@@ -1,6 +1,10 @@
 {
   "input" : [
-    { "item" : "money", "count" : 100 }  
+    { "item" : "avaligraphene", "count" : 3 },
+    { "item" : "aerogel", "count" : 1 }
+    // Alternate Crafting
+    //{ "item" : "avalitechpanel", "count" : 1 },
+    //{ "item" : "aerogel", "count" : 1 }
   ],
   "output" : { "item" : "avalidisplayapparatus", "count" : 1 },
   "groups" : [ "craftingstations", "avalilathe", "all" ]
