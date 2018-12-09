@@ -2,8 +2,7 @@
   "input" : [
   { "item" : "aerogel", "count" : 10 },
   { "item" : "avaligraphene", "count" : 15 },
-  { "item" : "ironbar", "count" : 5 },
-  { "item" : "money", "count" : 250}
+  { "item" : "ironbar", "count" : 5 }
   ],
   "output" : { "item" : "avalibow", "data" : { "level" : 1, "shortdescription" : "CB1 Lancer" }, "count" : 1 },
   "groups" : [ "avalibench", "weapons", "all" ]
